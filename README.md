@@ -32,3 +32,7 @@ curl -v https://api.github.com/emojis
   * HTTParty in ``ruby`` apps
 * Testing API calls
   * Stubbing API calls
+  * [thoughtbot - how-to-stub-external-services-in-tests](http://robots.thoughtbot.com/how-to-stub-external-services-in-tests)
+  * ``gem 'webmock'``
+  * ``require 'webmock/rspec'``
+
