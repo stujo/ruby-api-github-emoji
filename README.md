@@ -15,7 +15,7 @@ curl -v https://api.github.com/emojis
 
 * [``app.rb``](app.rb)
 * Spec - Use Case
-  *  User can visit ``/emojis`` to see a list of github emojis
+  *  User can visit ``/`` to see a list of github emojis
 * [Read the API docs](https://developer.github.com/v3/emojis/)
 
 ## Optional: Testing code which uses APIs

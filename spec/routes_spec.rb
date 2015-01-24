@@ -5,4 +5,3 @@ describe 'Home Page' do
     expect(get '/').to be_ok
   end  
 end
-  
