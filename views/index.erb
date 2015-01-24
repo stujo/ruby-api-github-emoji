@@ -1,1 +1,5 @@
 <H1>Home Page</H1>
+
+<% @emojis.each do |tag,img_url| %>
+   <img alt="<%= tag %>" title="<%= tag %>" src="<%= img_url %>"/>
+<% end %>
