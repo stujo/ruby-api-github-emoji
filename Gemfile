@@ -23,6 +23,7 @@ gem 'thin'
 gem 'rake'
 
 group :development, :test do
+  gem 'webmock'
   gem 'faker'
   gem 'rspec'
   gem 'rack-test'
