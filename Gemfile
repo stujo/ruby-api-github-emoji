@@ -18,14 +18,13 @@ gem 'activerecord', '~>4.1'
 
 gem 'rake'
 
-gem 'shotgun'
-
-group :test do
+group :development, :test do
   gem 'faker'
   gem 'rspec'
   gem 'rack-test'
   gem 'capybara'
   gem 'database_cleaner'
   gem 'shoulda-matchers'
+  gem 'rerun'
 end
 
