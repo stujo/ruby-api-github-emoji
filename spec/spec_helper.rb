@@ -11,5 +11,6 @@ RSpec.configure do |conf|
   def app
     Sinatra::Application
   end
+
 end
 
