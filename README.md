@@ -13,7 +13,7 @@ curl -v https://api.github.com/emojis
 
 ## Code Along
 
-* ``app.rb``
+* [``app.rb``](app.rb)
 
 ## Summary
 * API is an interface for Applications to use
