@@ -20,7 +20,6 @@ curl -v https://api.github.com/emojis
 * [Read the API docs](https://developer.github.com/v3/emojis/)
 
 ## Access Tokens
-* 
 * [GitHub - Personal Access Tokens](https://github.com/settings/applications#personal-access-tokens)
 
 ## Optional: Testing code which uses APIs
